@@ -7,11 +7,11 @@ tags are created.
 Versions
 --------
 
-### 0.0
+### 0.0 - done 2020-04-30 10:51
 
   + Initial version; basically just planning, minimal content, and structure
 
-#### 0.0.1
+#### 0.0.1 - done 2020-04-30 10:51
 
   + Literally just draw a window
 
