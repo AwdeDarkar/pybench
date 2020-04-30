@@ -1,0 +1,10 @@
+# Compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual env
+pybench-env/
